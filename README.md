@@ -4,13 +4,13 @@
 <br>
 1. Create a folder named data in your IDE and create a file named haarcascade_frontalface_default.xml in it.
 <br>
-2. Run the code in add_face_data.py.
+2. Run the program/code add_face_data.py.
 <br>
 3. Two pkl files(faces_data.pkl & names.pkl) will be created in the data folder.
 <br>
 4. Create a new folder named Attendance.
 <br>
-5. Run the code in attendance_system.py.
+5. Run the program/code attendance_system.py.
 <br>
 6. A file named Attendance_date.csv will be created in the Attendance folder.
 <br>
