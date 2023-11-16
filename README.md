@@ -18,6 +18,6 @@
 <br>
 <h3>Gestures</h3>
 <br>
-Palm or 'p' - Takes your attendance.
+• Palm or 'p' - Takes your attendance.
 <br>
-Closed fingers(Closed palm) or 'e' - Exit(Break) the code/program.
+• Closed fingers(Closed palm) or 'e' - Exit(Break) the code/program.
